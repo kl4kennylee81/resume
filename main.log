@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  13 OCT 2016 03:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  13 OCT 2016 23:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -812,24 +812,24 @@ Package microtype Info: Loading generic settings for font family
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
 * driver: pdftex
-* paper: a4paper
+* paper: letterpaper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(29.87721pt, 537.75343pt, 29.87723pt)
-* v-part:(T,H,B)=(33.80392pt, 760.53699pt, 50.70593pt)
-* \paperwidth=597.50787pt
-* \paperheight=845.04684pt
-* \textwidth=537.75343pt
-* \textheight=760.53699pt
-* \oddsidemargin=-42.39278pt
-* \evensidemargin=-42.39278pt
-* \topmargin=-75.46606pt
+* h-part:(L,W,R)=(30.71663pt, 552.86174pt, 30.71663pt)
+* v-part:(T,H,B)=(31.80072pt, 715.46812pt, 47.70114pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=552.86174pt
+* \textheight=715.46812pt
+* \oddsidemargin=-41.55336pt
+* \evensidemargin=-41.55336pt
+* \topmargin=-77.46927pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=10.0pt
 * \footskip=30.0pt
-* \marginparwidth=57.0pt
+* \marginparwidth=65.0pt
 * \marginparsep=11.0pt
 * \columnsep=10.0pt
 * \skip\footins=9.0pt plus 4.0pt minus 2.0pt
@@ -921,21 +921,21 @@ LaTeX Font Warning: Font shape `T1/lmss/sb/n' undefined
 (Font)              using `T1/lmss/m/n' instead on input line 66.
 
 
-Overfull \hbox (409.78226pt too wide) in paragraph at lines 66--66
+Overfull \hbox (421.11348pt too wide) in paragraph at lines 66--66
 [][][]| 
  []
 
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <9> not available
 (Font)              Font shape `T1/lmss/m/sl' tried instead on input line 75.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 228.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 224.
 [1
 
 {/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 228.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 224.
 
 (./main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 228.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 228.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 224.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 224.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: A809EE9AAAE442146E7149BE26C3F5C4;337.
 
@@ -945,8 +945,8 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
  ) 
 Here is how much of TeX's memory you used:
  17666 strings out of 493089
- 295806 string characters out of 6134842
- 383332 words of memory out of 5000000
+ 295814 string characters out of 6134842
+ 382328 words of memory out of 5000000
  20943 multiletter control sequences out of 15000+600000
  51295 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -960,7 +960,7 @@ ype1/public/lm/lmss9.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public
 /lm/lmssbx10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmss
 o10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmsso9.pfb></
 usr/local/texlive/2015/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on main.pdf (1 page, 177196 bytes).
+Output written on main.pdf (1 page, 176738 bytes).
 PDF statistics:
  68 PDF objects out of 1000 (max. 8388607)
  55 compressed objects within 1 object stream
